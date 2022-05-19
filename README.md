@@ -1,10 +1,10 @@
 # extension-hub
 
 Table of contents:
-- ![What?](##What?)
-- ![Why?](##Why?)
-- ![Who?](##Who?)
-- ![NOTICE](##NOTICE)
+- [What?](##What?)
+- [Why?](##Why?)
+- [Who?](##Who?)
+- [NOTICE](##NOTICE)
 
 ## What?
 
