@@ -10,8 +10,7 @@ I chose to do this because Chrome Web Store needed money to make extensions.
 
 ### But couldn't you just use Edge's version of it?
 
-Yeah, but I need it to be accessible to everyone. You probably cannot install
-Edge extensions in Chrome.
+Yeah, but I need it to be accessible to everyone. You probably cannot install Edge extensions in Chrome.
 
 ## Who?
 
