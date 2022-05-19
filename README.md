@@ -1,11 +1,5 @@
 # extension-hub
 
-Table of contents:
-- [What?](## What?)
-- [Why?](## Why?)
-- [Who?](## Who?)
-- [NOTICE](## NOTICE)
-
 ## What?
 
 A ==*free*== alternative to Chrome Web extension.
