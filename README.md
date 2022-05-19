@@ -2,7 +2,7 @@
 
 ## What?
 
-A ==*free*== alternative to Chrome Web extension.
+A ***free*** alternative to Chrome Web extension.
 
 ## Why?
 
